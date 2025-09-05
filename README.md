@@ -1,2 +1,18 @@
 # tc86.github.io
-Computational biologist specializing in oncology genomics (WGS/WES, single-cell) and reproducible pipelines (Snakemake, GATK, PostgreSQL, HPC). Building scalable workflows and turning sequencing data into actionable biological insights.
+# Hi, I’m Tamrin 👋
+
+Computational biologist/bioinformatician focusing on oncology genomics (WGS/WES, single-cell, RNA-seq, epigenetics) and production pipelines (Snakemake, GATK, Slurm). I love turning messy sequencing data into reliable, reproducible insights.
+
+**Highlights**
+- 🔧 Reproducible NGS pipelines (Snakemake + conda/containers)
+- 🧬 Tumor evolution & mutational signatures
+- 🗄️ Data plumbing with PostgreSQL; scalable HPC workflows
+- 📈 Clean, decision-ready analyses (R/Python)
+
+**Pinned Projects**
+
+
+
+**Tech**: Python, R, Snakemake, GATK, PostgreSQL, Slurm, GitHub Actions  
+**Contact**: tamrin.chowdhury@gmail.com · [LinkedIn](https://www.linkedin.com/in/tamrin-chowdhury-27986555/)
+**Publication list**: [Google Scholar](https://scholar.google.com/citations?hl=en&user=7XqVPMcAAAAJ&view_op=list_works&sortby=pubdate)
