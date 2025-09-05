@@ -9,8 +9,8 @@ Computational biologist/bioinformatician focusing on oncology genomics (WGS/WES,
 - 🗄️ Data plumbing with PostgreSQL; scalable HPC workflows
 - 📈 Clean, decision-ready analyses (R/Python)
 
-**Pinned Projects**
-
+**Code Snippets**
+- [omics-analysis-examples](https://github.com/tc86/omics-analysis-examples)
 
 
 **Tech**: Python, R, Snakemake, GATK, PostgreSQL, Slurm, GitHub Actions  
